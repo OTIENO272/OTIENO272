@@ -26,6 +26,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OTIENO272&theme=radical&no-frame=false&no-bg=false&margin-w=4)
