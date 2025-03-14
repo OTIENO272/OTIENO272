@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Android app<br>👯 I’m looking to collaborate on Apps<br>🤝 I’m looking for help with Back-end<br>🌱 I’m currently learning Kotlin<br>💬 Ask me about ApIs<br>⚡ Fun fact "Sleep code ,Dream code,Walk Code,Live code "<br>
-  Love Video Gaming and anime
+ ! Love Video Gaming and anime
 
 <p>
   <img src="https://i.pinimg.com/originals/79/6d/b5/796db5deaf3ca9a927736d4b12cc3086.gif">
