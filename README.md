@@ -26,8 +26,12 @@
 
 
 
+## 💻 Tech Stack Progress
 
-
+- **Frontend** ![80%](https://img.shields.io/badge/-80%25-blue)
+- **Backend** ![85%](https://img.shields.io/badge/-85%25-red)
+- **Android** ![50%](https://img.shields.io/badge/-50%25-green)
+- **Database** ![80%](https://img.shields.io/badge/-80%25-yellow)
 
 
 # 📊 GitHub Stats:
