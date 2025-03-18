@@ -25,6 +25,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
+## 🔧 Skills & Tools  
+
+| **Category**                | **Technologies & Tools**  |
+|-----------------------------|--------------------------|
+| **Frontend Development**    | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white) |
+| **Backend Development**     | ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) |
+| **API Testing**             | ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=flat&logo=junit5&logoColor=white) |
+| **Databases**               | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white) |
+| **Native App Development**  | ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white) |
+| **Code Editors**            | ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23FF9800.svg?style=flat&logo=sublime-text&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat&logo=neovim&logoColor=white) |
+| **Deployment & Hosting**    | ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat&logo=netlify&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) |
 
 
 ## 💻 Tech Stack Progress
