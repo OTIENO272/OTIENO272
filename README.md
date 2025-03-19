@@ -85,7 +85,6 @@
 [![](https://visitcount.itsvg.in/api?id=OTIENO272&icon=4&color=0)](https://visitcount.itsvg.in)
 <p>
   
-  <img src="https://i.pinimg.com/originals/79/6d/b5/796db5deaf3ca9a927736d4b12cc3086.gif">
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
