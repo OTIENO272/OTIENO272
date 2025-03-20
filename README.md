@@ -3,13 +3,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 <hr>
 
- 🎓 ComputerEngineer  |WebDesigner  |Android Developer
+ 🎓 Computer Engineer  |WebDesigner  |Android Developer
 ----------------------------------------------
 <br>
 <hr>
 
 ⭐️A passionate problem-solver. who thrives in innovation ,productivity and development <br>
-⭐️Has a driving force towards advancing technology
+⭐️Has a driving force towards advancing technology.
+
+
 <hr>
 
 # 💫 About Me:
