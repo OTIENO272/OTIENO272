@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ⭐️A passionate problem-solver. who thrives in innovation ,productivity and development <br>
 ⭐️Has a driving force towards advancing technology.<br>
-⭐️
+⭐️A Friend to Bugs
 
 
 <hr>
