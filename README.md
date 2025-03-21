@@ -66,8 +66,8 @@ src="https://img.shields.io/twitter/follow/OtienoVictor?logo=twitter&style=for-t
 
 <a href="http://www.github.com/OTIENO272"><img src="https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="OTIENO272's GitHub stats" /></a>
 
-<a href="http://www.github.com/OTIENO272"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OTIENO272&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+<a href="http://www.github.com/Unrealrojo234"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OTIENO272&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br>
 ## 🌐 Most Used Languages
 
 [![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OTIENO272&theme=github_dark)](https://github.com/YOUR_GITHUB_USERNAME)
