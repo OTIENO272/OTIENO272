@@ -19,7 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
  🌍  I'm based in Kenya<br>
  🖥️  See my portfolio at <a href="https://otieno272.github.io/portfolioupdate/">VictorOtieno</a><br>
- ✉️  You can contact me on email<br>
+ ✉️  You can contact me on email  <a href="otieno272@gmail.com">gmail</a><br>
  🚀  I'm currently working on an android app
  <br>
  🧠  I'm learning Artificial intelligence<br>
