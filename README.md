@@ -18,7 +18,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 # 💫 About Me:
 <br>
  🌍  I'm based in Kenya<br>
- 🖥️  See my portfolio at <a heref="https://otieno272.github.io/portfolioupdate/">Victor Otieno</a><br>
+ 🖥️  See my portfolio at <a href="https://otieno272.github.io/portfolioupdate/">VictorOtieno</a><br>
  ✉️  You can contact me on email<br>
  🚀  I'm currently working on an android app
  <br>
