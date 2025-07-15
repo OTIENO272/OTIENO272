@@ -74,6 +74,10 @@ src="https://img.shields.io/twitter/follow/OtienoVictor?logo=twitter&style=for-t
 [![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OTIENO272&theme=github_dark)](https://github.com/YOUR_GITHUB_USERNAME)
 
 [![Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OTIENO272&theme=github_dark)](https://github.com/YOUR_GITHUB_USERNAME)
+### 🧑‍💻 LANGUAGE DISTRIBUTION
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&langs_count=10&hide_progress=false&theme=dark&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
