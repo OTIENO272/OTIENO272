@@ -16,7 +16,7 @@ Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127
 
 <hr>
 
-# 💫 About Me:
+# 💫 AbOUT ME:
 <br>
  🌍  I'm based in Kenya<br>
  🖥️  See my portfolio at <a href="https://otieno272.github.io/portfolioupdate/">Victor Otieno</a><br>
@@ -41,7 +41,7 @@ src="https://img.shields.io/github/followers/OTIENO272?logo=github&style=for-the
 src="https://img.shields.io/twitter/follow/OtienoVictor?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-## 🚀 Tech Stack & Tools  
+## 🚀 TECH STACK & TOOLS 
 
 | **Category**        | **Technologies & Tools**  |
 |---------------------|--------------------------|
@@ -56,20 +56,20 @@ src="https://img.shields.io/twitter/follow/OtienoVictor?logo=twitter&style=for-t
 | 🎭 **Other Tech**  | ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![Linux](https://skillicons.dev/icons?i=linux) |
 
 
-### 🖥️ Socials
+### 🖥️ SOCIALS
 
 <p align="left"> <a href="https://www.github.com/OTIENO272" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mr-icon254" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/victor-otieno" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/OtienoVictor" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@victor" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
 
 <hr>
-<h1> 🚀Badges</h1>
+<h1> 🚀BADGES</h1>
 
-<b>My GitHub Stats</b>
+<b>MY GITHUB STATS</b>
 
 <a href="http://www.github.com/OTIENO272"><img src="https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="OTIENO272's GitHub stats" /></a>
 
 <a href="http://www.github.com/Unre"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OTIENO272&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
 <br>
-## 🌐 Most Used Languages
+## 🌐 MOST USED LANGUAGES
 
 [![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OTIENO272&theme=github_dark)](https://github.com/YOUR_GITHUB_USERNAME)
 
@@ -82,13 +82,13 @@ src="https://img.shields.io/twitter/follow/OtienoVictor?logo=twitter&style=for-t
 
 
 
-## 📊 GitHub Activity Graph  
+## 📊 GITHUB ACTIVITY GRAPH
 
 ![Your GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149)
 
 
 
-## 🚀 Tech Stack Progress
+## 🚀 TECH STACK PROGRESS
 
 <div align="center">
 
@@ -106,7 +106,7 @@ src="https://img.shields.io/twitter/follow/OtienoVictor?logo=twitter&style=for-t
 
 
 
-## 🏆 GitHub Achievements
+## 🏆 GITHUB ACHIEVEMENTS
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OTIENO272&theme=onedark&no-frame=true&no-bg=true&margin-w=8)
 
