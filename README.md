@@ -123,8 +123,9 @@ src="https://img.shields.io/twitter/follow/OtienoVictor?logo=twitter&style=for-t
 [![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=OTIENO272&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/OTIENO272)
 
 <hr>
+ADIOS!
+<hr>
 
-<hr>ADIOS!
 
 
 
