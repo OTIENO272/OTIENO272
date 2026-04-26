@@ -8,7 +8,7 @@ I'm  Odhiambo Victor
 <br>
 <hr> 
  
- 🎓  Computer Engineer  |WebDesigner   |Android Developer
+ 🎓  Computer Engineer  |WebDeveloper   
 ----------------------------------------------
 <br>
 <hr>
