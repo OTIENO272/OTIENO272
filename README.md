@@ -1,18 +1,18 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║              👋 WELCOME TO MY GITHUB PROFILE 👋                      ║
-║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║              👋 WELCOME TO MY GITHUB PROFILE 👋                           ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
 # 🚀 Victor Otieno
 
 ### Computer Engineer | Full-Stack Developer | Tech Innovator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=10B981&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Passionate+About+Innovation+%26+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=10B981&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Full-Stack+%7C+Android+%7C+Security" alt="Typing SVG" />
 
 ---
 
@@ -46,11 +46,7 @@
 
 <div style="background: linear-gradient(135deg, #064e3b 0%, #047857 100%); padding: 30px; border-radius: 10px; margin: 20px 0;">
 
-I am a **results-driven software engineer** with a commitment to excellence in every project I undertake. Based in Kenya 🌍, I am dedicated to crafting high-quality, scalable solutions that drive real-world impact. 
-
-My expertise spans **full-stack web development**, **Android application development**, and **cybersecurity**, allowing me to deliver comprehensive solutions across the entire technology spectrum. I am passionate about leveraging cutting-edge technologies to solve complex business challenges and create meaningful value for users and organizations alike.
-
-With a methodical approach to problem-solving and a keen eye for detail, I focus on building robust systems that are not only functionally sound but also maintainable, secure, and user-centric. I thrive in collaborative environments where innovation, creativity, and technical excellence converge.
+Passionate problem-solver from Kenya 🌍 specializing in **full-stack web development**, **Android development**, and **cybersecurity**. I build scalable, efficient, and innovative solutions while tackling complex challenges and pushing technological boundaries.
 
 </div>
 
@@ -204,13 +200,13 @@ With a methodical approach to problem-solving and a keen eye for detail, I focus
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&theme=github_dark&title_color=10B981&text_color=ffffff&icon_color=10B981&bg_color=0d1117&hide_border=true&rank_icon=github)](https://github.com/OTIENO272)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&theme=github_dark&title_color=10B981&text_color=ffffff&icon_color=10B981&bg_color=0d1117&hide_border=true)](https://github.com/OTIENO272)
 
 </div>
 
 <div align="center">
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=OTIENO272&theme=github_dark&hide_border=true&background=0d1117&stroke=ffffff&ring=10B981&fire=10B981&currStreakNum=10B981&currStreakLabel=ffffff)](https://github.com/OTIENO272)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=OTIENO272&theme=github_dark&hide_border=true&background=0d1117&stroke=ffffff&ring=10B981&fire=10B981&currStreakNum=10B981&currStreakLabel=10B981)](https://github.com/OTIENO272)
 
 </div>
 
