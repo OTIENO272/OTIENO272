@@ -12,7 +12,7 @@
 
 ### Computer Engineer | Full-Stack Developer | Tech Innovator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=2563EB&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Passionate+About+Innovation+%26+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=10B981&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Passionate+About+Innovation+%26+Technology" alt="Typing SVG" />
 
 ---
 
@@ -20,15 +20,15 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=OTIENO272&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge)](https://github.com/OTIENO272)
-[![GitHub followers](https://img.shields.io/github/followers/OTIENO272?logo=github&style=for-the-badge&color=2563EB&labelColor=1c1917)](https://github.com/OTIENO272)
-[![Twitter Follow](https://img.shields.io/twitter/follow/OtienoVictor?logo=twitter&style=for-the-badge&color=2563EB&labelColor=1c1917)](https://twitter.com/OtienoVictor)
+[![Profile Views](https://komarev.com/ghpvc/?username=OTIENO272&label=PROFILE%20VIEWS&color=10B981&style=for-the-badge)](https://github.com/OTIENO272)
+[![GitHub followers](https://img.shields.io/github/followers/OTIENO272?logo=github&style=for-the-badge&color=10B981&labelColor=1c1917)](https://github.com/OTIENO272)
+[![Twitter Follow](https://img.shields.io/twitter/follow/OtienoVictor?logo=twitter&style=for-the-badge&color=10B981&labelColor=1c1917)](https://twitter.com/OtienoVictor)
 
 ---
 
 ### 🔗 Connect With Me
 
-<a href="https://otieno272.github.io/portfolioupdate/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=firefox&logoColor=2563EB" alt="Portfolio" /></a>
+<a href="https://otieno272.github.io/portfolioupdate/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=firefox&logoColor=10B981" alt="Portfolio" /></a>
 <a href="mailto:otieno272@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/OTIENO272" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.x.com/OtienoVictor" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
@@ -40,17 +40,25 @@
 
 <div align="center">
 
-## 💫 About Me
+## 🌟 About Me
 
 </div>
 
-I am a passionate problem-solver from Kenya 🌍 with a strong drive to advance technological innovation. I specialize in developing scalable, efficient, and innovative solutions across diverse platforms. With extensive expertise in full-stack web development, Android application development, and cybersecurity, I am committed to tackling complex technical challenges and pushing the boundaries of what is possible in technology.
+<div style="background: linear-gradient(135deg, #064e3b 0%, #047857 100%); padding: 30px; border-radius: 10px; margin: 20px 0;">
+
+I am a **results-driven software engineer** with a commitment to excellence in every project I undertake. Based in Kenya 🌍, I am dedicated to crafting high-quality, scalable solutions that drive real-world impact. 
+
+My expertise spans **full-stack web development**, **Android application development**, and **cybersecurity**, allowing me to deliver comprehensive solutions across the entire technology spectrum. I am passionate about leveraging cutting-edge technologies to solve complex business challenges and create meaningful value for users and organizations alike.
+
+With a methodical approach to problem-solving and a keen eye for detail, I focus on building robust systems that are not only functionally sound but also maintainable, secure, and user-centric. I thrive in collaborative environments where innovation, creativity, and technical excellence converge.
+
+</div>
 
 <div align="center">
 
-| 🌍 Location | 🎓 Expertise | 🚀 Focus | 🧠 Learning |
+| 🌍 **Location** | 🎯 **Specialization** | 💼 **Current Role** | 📚 **Learning** |
 |:---:|:---:|:---:|:---:|
-| **Kenya** | **Full-Stack Development** | **Android Apps** | **AI & Machine Learning** |
+| **Kenya** | **Full-Stack Development** | **Android Engineer** | **AI & ML** |
 
 </div>
 
@@ -58,19 +66,19 @@ I am a passionate problem-solver from Kenya 🌍 with a strong drive to advance 
 
 <div align="center">
 
-## ⚡ Quick Facts About Me
+## ⚡ Professional Highlights
 
 </div>
 
 <div align="left">
 
-- 🎯 **Currently Working On:** Developing innovative Android applications with cutting-edge features and optimal performance
-- 🧠 **Currently Learning:** Artificial Intelligence, Machine Learning, and Deep Learning technologies
-- 🤝 **Open to Collaborating:** Cybersecurity projects, innovative tech solutions, and meaningful open-source contributions
-- ⚡ **Strength:** Debugging code efficiently and solving complex technical problems with precision
-- 📈 **Philosophy:** Continuously advancing technical skills and staying updated with emerging technologies
-- 💡 **Passion:** Building products that solve real-world problems and create meaningful impact
-- 🎯 **Goal:** Become a recognized thought leader in technological innovation and excellence
+- 🎯 **Currently Developing:** Enterprise-grade Android applications with advanced features, optimal performance, and seamless user experiences
+- 🧠 **Expanding Knowledge In:** Artificial Intelligence, Machine Learning, and Deep Learning applications in real-world scenarios
+- 🤝 **Collaborating On:** Cybersecurity initiatives, innovative technology solutions, and meaningful open-source projects
+- ⚡ **Core Strength:** Efficient debugging, complex problem-solving, and delivering high-performance solutions under pressure
+- 📈 **Professional Ethos:** Continuous skill development and staying abreast of emerging technologies and industry best practices
+- 💡 **Driven By:** Creating innovative products that address real-world challenges and deliver measurable impact
+- 🏆 **Vision:** Establishing myself as a leader in technological innovation with a track record of excellence and integrity
 
 </div>
 
@@ -196,13 +204,13 @@ I am a passionate problem-solver from Kenya 🌍 with a strong drive to advance 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&theme=github_dark&title_color=2563EB&text_color=ffffff&icon_color=2563EB&bg_color=0d1117&hide_border=true&rank_icon=github)](https://github.com/OTIENO272)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&theme=github_dark&title_color=10B981&text_color=ffffff&icon_color=10B981&bg_color=0d1117&hide_border=true&rank_icon=github)](https://github.com/OTIENO272)
 
 </div>
 
 <div align="center">
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=OTIENO272&theme=github_dark&hide_border=true&background=0d1117&stroke=ffffff&ring=2563EB&fire=2563EB&currStreakNum=2563EB&currStreakLabel=ffffff)](https://github.com/OTIENO272)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=OTIENO272&theme=github_dark&hide_border=true&background=0d1117&stroke=ffffff&ring=10B981&fire=10B981&currStreakNum=10B981&currStreakLabel=ffffff)](https://github.com/OTIENO272)
 
 </div>
 
@@ -216,13 +224,13 @@ I am a passionate problem-solver from Kenya 🌍 with a strong drive to advance 
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&theme=github_dark&title_color=2563EB&text_color=ffffff&bg_color=0d1117&hide_border=true)](https://github.com/OTIENO272)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&theme=github_dark&title_color=10B981&text_color=ffffff&bg_color=0d1117&hide_border=true)](https://github.com/OTIENO272)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github&hide_border=true&bg_color=0d1117&color=2563EB&line=2563EB&point=3b82f6&area=true&area_color=1e40af)](https://github.com/OTIENO272)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github&hide_border=true&bg_color=0d1117&color=10B981&line=10B981&point=34d399&area=true&area_color=047857)](https://github.com/OTIENO272)
 
 </div>
 
