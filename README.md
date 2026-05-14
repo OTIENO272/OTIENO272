@@ -52,9 +52,9 @@ Passionate problem-solver from Kenya 🌍 specializing in **full-stack web devel
 
 <div align="center">
 
-| 🌍 **Location** | 🎯 **Specialization** | 💼 **Current Role** | 📚 **Learning** |
-|:---:|:---:|:---:|:---:|
-| **Kenya** | **Full-Stack Development** | **Android Engineer** | **AI & ML** |
+| 🌍 **Location** | 🎯 **Specialization** | 📚 **Learning** |
+|:---:|:---:|:---:|
+| **Kenya** | **Full-Stack Development** | **AI & ML** |
 
 </div>
 
