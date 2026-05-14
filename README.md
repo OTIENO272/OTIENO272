@@ -1,128 +1,131 @@
-# Hi there! 👋 I'm Victor Otieno
+   
+                                            
+Hello! <br> 
 
-**Computer Engineer | Web Developer | Problem Solver**
+I'm Victor  Otieno 
+=====================================================================================================================================
+<br>
+<hr> 
+ 
+ 🎓  Computer Engineer  |WebDeveloper   
+----------------------------------------------
+<br>
+<hr>
 
----
+⭐️A passionate problem-solver. who thrives in innovation ,productivity and development <br>
+⭐️Has a driving force towards advancing in technology<br>
 
-## 🎯 About Me
 
-I'm a passionate problem-solver based in **Kenya** who thrives on innovation, productivity, and development. With expertise across full-stack web development, Android development, and cybersecurity, I love building scalable solutions and tackling complex challenges.
 
-- 🌍 **Location:** Kenya
-- 🎓 **Field:** Computer Engineering & Web Development
-- 🖥️ **Portfolio:** [Victor Otieno](https://otieno272.github.io/portfolioupdate/)
-- ✉️ **Email:** [otieno272@gmail.com](mailto:otieno272@gmail.com)
-- 🚀 **Currently Working On:** Android app development
-- 🧠 **Learning:** Artificial Intelligence & Machine Learning
-- 🤝 **Open to Collaborating On:** Cybersecurity projects
-- ⚡ **Fun Fact:** Debugging is my hobby!
+<hr>
 
----
+# 💫 AbOUT ME:
+<br>
+ 🌍  I'm based in Kenya<br>
+ 🖥️  See my portfolio at <a href="https://otieno272.github.io/portfolioupdate/">Victor Otieno</a><br>
+ ✉️  You can contact me on email  <a href="otieno272@gmail.com">Email</a><br>
+ 🚀  I'm currently working on an android app
+ <br>
+ 🧠  I'm learning Artificial intelligence<br>
+ 🤝  I'm open to collaborating on Cybersecurity<br>
+ ⚡  Debugging is my hobby<br>
+<hr>
+ 
+<p>
 
-## 🚀 Featured Projects
-
-Check out some of my highlighted work:
-
-- 🔗 Visit my [Portfolio](https://otieno272.github.io/portfolioupdate/) to see detailed project showcases
-- Explore my [GitHub Repositories](https://www.github.com/OTIENO272) for open-source contributions
-
----
-
-## 💫 Tech Stack & Tools
-
-| **Category** | **Technologies** |
-|---|---|
-| 🎨 **Frontend** | HTML5, CSS3, JavaScript, TypeScript, React, Vue.js |
-| ⚙️ **Backend** | Node.js, Express.js, Django, PHP, Python, REST APIs |
-| 📱 **Android Development** | Kotlin, Java, Android Studio |
-| 🎮 **Game Development** | Unity, Unreal Engine, C#, Blender |
-| 🔐 **Cybersecurity** | Kali Linux, Wireshark, Burp Suite, Metasploit |
-| 🗄️ **Database** | MySQL, PostgreSQL, MongoDB |
-| ☁️ **DevOps & Cloud** | AWS, Kubernetes, Docker |
-| 🛠️ **Development Tools** | Git, VS Code, GitHub, Photoshop, Figma |
-| 📚 **Other Languages** | C, C++, Python, Linux |
-
----
-
-## 📊 Tech Stack Progress
-
-| Area | Proficiency |
-|------|-------------|
-| 🎨 Frontend | ![80%](https://img.shields.io/badge/-80%25-blue?style=flat) |
-| ⚙️ Backend | ![85%](https://img.shields.io/badge/-85%25-red?style=flat) |
-| 📱 Android | ![50%](https://img.shields.io/badge/-50%25-green?style=flat) |
-| 🗄️ Database | ![80%](https://img.shields.io/badge/-80%25-yellow?style=flat) |
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.github.com/OTIENO272" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.x.com/OtienoVictor" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:otieno272@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://otieno272.github.io/portfolioupdate/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefox" alt="Portfolio" />
-  </a>
+  <img src="https://i.pinimg.com/originals/79/6d/b5/796db5deaf3ca9a927736d4b12cc3086.gif">
 </p>
 
+
+
+<hr>
+<a href="https://www.github.com/OTIENO272" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/OTIENO272?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/OtienoVictor" target="_blank" rel="noreferre[...]
+src="https://img.shields.io/twitter/follow/OtienoVictor?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+## 🚀 TECH STACK & TOOLS 
+
+| **Category**        | **Technologies & Tools**  |
+|---------------------|--------------------------|
+| 🎨 **Frontend**     | ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicon[...]
+| ⚙️ **Backend**      | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![Django](https://skillicons.dev/icons?i=django) ![PHP](https://[...]
+| 📱 **Android Development** | ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![Java](https://skillicons.dev/icons?i=java) ![Android](https://skillicons.dev/icons?i=androidstudio) |
+| 🎮 **Game Development** | ![Unity](https://skillicons.dev/icons?i=unity) ![Unreal Engine](https://skillicons.dev/icons?i=unreal) ![C#](https://skillicons.dev/icons?i=cs) ![Blender](https://ski[...]
+| 🔐 **Cybersecurity** | ![Kali Linux](https://skillicons.dev/icons?i=kali) ![Wireshark](https://skillicons.dev/icons?i=wireshark) ![Burp Suite](https://skillicons.dev/icons?i=burpsuite) ![Metas[...]
+| 🗄️ **Database**     | ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) |
+| ☁️ **DevOps & Cloud** | ![AWS](https://skillicons.dev/icons?i=aws) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Docker](https://skillicons.dev/icons?i=docker) |
+| 🛠️ **Development Tools** | ![Git](https://skillicons.dev/icons?i=git) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Photoshop](https://skillicons.dev/icons?i=ps) ![Sketch](https://ski[...]
+| 🎭 **Other Tech**  | ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![Linux](https://skillicons.dev/icons?i=[...]
+
+
+### 🖥️ SOCIALS
+
+<p align="left"> <a href="https://www.github.com/OTIENO272" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danie[...]
+
+<hr>
+<h1> 🚀BADGES</h1>
+
+<b>MY GITHUB STATS</b>
+
+<a href="http://www.github.com/OTIENO272"><img src="https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon[...]
+
+<a href="http://www.github.com/Unre"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OTIENO272&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStr[...]
+<br>
+## 🌐 MOST USED LANGUAGES
+
+[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OTIENO272&theme=github_dark)](https://github.com/YOUR_GITHUB_USERNAME)
+
+[![Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OTIENO272&theme=github_dark)](https://github.com/YOUR_GITHUB_USERNAME)
+### 🧑‍💻 LANGUAGE DISTRIBUTION
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&langs_count=10&hide_progress=false&theme=dark&bg_color=000000)](https://github.com/anuraghazra[...]
+
+
+
+
+## 📊 GITHUB ACTIVITY GRAPH
+
+![Your GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&poin[...]
+
+
+
+## 🚀 TECH STACK PROGRESS
+
+<div align="center">
+
+| Tech Area  | Progress |
+|------------|----------|
+| 🎨 **Frontend** | ![80%](https://img.shields.io/badge/-80%25-blue) |
+| ⚙️ **Backend** | ![85%](https://img.shields.io/badge/-85%25-red) |
+| 📱 **Android** | ![50%](https://img.shields.io/badge/-50%25-green) |
+| 🗄️ **Database** | ![80%](https://img.shields.io/badge/-80%25-yellow) |
+
+</div>
+
+
 ---
 
-## 📈 GitHub Statistics
 
-### Overview
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
 
-### Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OTIENO272&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2)
-
----
-
-## 🌐 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&langs_count=10&theme=dark&bg_color=000000)
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff)
-
----
-
-## 🏆 GitHub Achievements
+## 🏆 GITHUB ACHIEVEMENTS
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OTIENO272&theme=onedark&no-frame=true&no-bg=true&margin-w=8)
 
----
+<hr>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ## 🔥 Top Contributed Repositories
 
 [![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=OTIENO272&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/OTIENO272)
 
----
+<hr>
+ADIOS!
+<hr>
 
-## ✍️ Random Dev Quote
 
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
-## 💬 Let's Connect!
-
-I'm always open to collaborating on interesting projects, discussing new technologies, or just having a conversation about tech and innovation.
-
-📧 **Email:** [otieno272@gmail.com](mailto:otieno272@gmail.com)  
-🔗 **Portfolio:** [Victor Otieno](https://otieno272.github.io/portfolioupdate/)  
-🐙 **GitHub:** [@OTIENO272](https://www.github.com/OTIENO272)  
-🐦 **Twitter:** [@OtienoVictor](https://www.x.com/OtienoVictor)
-
----
-
-**Thank you for visiting my profile! Happy coding! 🚀**
