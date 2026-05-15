@@ -1,18 +1,18 @@
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║              👋 WELCOME TO MY GITHUB PROFILE 👋                           ║
-║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║              👋 WELCOME TO MY GITHUB PROFILE 👋                      ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
 # 🚀 Victor Otieno
 
 ### Computer Engineer | Full-Stack Developer | Tech Innovator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=10B981&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Full-Stack+%7C+Android+%7C+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=10B981&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Passionate+About+Innovation+%26+Technology" alt="Typing SVG" />
 
 ---
 
@@ -44,9 +44,9 @@
 
 </div>
 
-<div style="background: linear-gradient(135deg, #064e3b 0%, #047857 100%); padding: 30px; border-radius: 10px; margin: 20px 0;">
+<div style="background: linear-gradient(135deg, #064e3b 0%, #047857 100%); padding: 30px; border-radius: 10px; margin: 20px 0; color: white;">
 
-Passionate problem-solver from Kenya 🌍 specializing in **full-stack web development**, **Android development**, and **cybersecurity**. I build scalable, efficient, and innovative solutions while tackling complex challenges and pushing technological boundaries.
+**Passionate problem-solver from Kenya 🌍** dedicated to advancing technological innovation. I specialize in developing **scalable, efficient, and innovative solutions** across diverse platforms. With extensive expertise in **full-stack web development**, **Android application development**, and **cybersecurity**, I am committed to tackling complex technical challenges and pushing the boundaries of what is possible in technology.
 
 </div>
 
@@ -54,7 +54,7 @@ Passionate problem-solver from Kenya 🌍 specializing in **full-stack web devel
 
 | 🌍 **Location** | 🎯 **Specialization** | 📚 **Learning** |
 |:---:|:---:|:---:|
-| **Kenya** | **Full-Stack Development** | **AI & ML** |
+| **Kenya** | **Full-Stack & Mobile Development** | **AI & Machine Learning** |
 
 </div>
 
@@ -200,13 +200,13 @@ Passionate problem-solver from Kenya 🌍 specializing in **full-stack web devel
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&theme=github_dark&title_color=10B981&text_color=ffffff&icon_color=10B981&bg_color=0d1117&hide_border=true)](https://github.com/OTIENO272)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&theme=github_dark&title_color=10B981&text_color=ffffff&icon_color=10B981&bg_color=0d1117&hide_border=true&rank_icon=github)](https://github.com/OTIENO272)
 
 </div>
 
 <div align="center">
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=OTIENO272&theme=github_dark&hide_border=true&background=0d1117&stroke=ffffff&ring=10B981&fire=10B981&currStreakNum=10B981&currStreakLabel=10B981)](https://github.com/OTIENO272)
+[![Streak Stats](https://streak-stats.demolab.com?user=OTIENO272&theme=github-dark&hide_border=true&background=0d1117&stroke=10B981&ring=10B981&fire=10B981&currStreakNum=10B981&currStreakLabel=ffffff)](https://github.com/OTIENO272)
 
 </div>
 
@@ -226,7 +226,7 @@ Passionate problem-solver from Kenya 🌍 specializing in **full-stack web devel
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github&hide_border=true&bg_color=0d1117&color=10B981&line=10B981&point=34d399&area=true&area_color=047857)](https://github.com/OTIENO272)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github&hide_border=true&bg_color=0d1117&color=10B981&line=10B981&point=34d399&area=true&area_color=064e3b)](https://github.com/OTIENO272)
 
 </div>
 
