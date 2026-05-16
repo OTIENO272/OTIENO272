@@ -1,24 +1,24 @@
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 ```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║              👋 WELCOME TO MY GITHUB PROFILE 👋                      ║
-║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║              👋 WELCOME TO MY GITHUB PROFILE 👋                           ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
 # 🚀 Victor Otieno
 
 ### Computer Engineer | Full-Stack Developer | Tech Innovator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=10B981&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Passionate+About+Innovation+%26+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=22&color=10B981&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Full-Stack+%7C+Android+%7C+Security" alt="Typing SVG" />
 
 ---
 
 </div>
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=OTIENO272&label=PROFILE%20VIEWS&color=10B981&style=for-the-badge)](https://github.com/OTIENO272)
 [![GitHub followers](https://img.shields.io/github/followers/OTIENO272?logo=github&style=for-the-badge&color=10B981&labelColor=1c1917)](https://github.com/OTIENO272)
@@ -38,35 +38,35 @@
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 ## 🌟 About Me
 
 </div>
 
-<div style="background: linear-gradient(135deg, #064e3b 0%, #047857 100%); padding: 30px; border-radius: 10px; margin: 20px 0; color: white;">
+<div style="background: linear-gradient(135deg, #064e3b 0%, #047857 100%); padding: 30px; border-radius: 10px; margin: 20px 0; color: white; font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
-**Passionate problem-solver from Kenya 🌍** dedicated to advancing technological innovation. I specialize in developing **scalable, efficient, and innovative solutions** across diverse platforms. With extensive expertise in **full-stack web development**, **Android application development**, and **cybersecurity**, I am committed to tackling complex technical challenges and pushing the boundaries of what is possible in technology.
+Passionate problem-solver from Kenya 🌍 specializing in **full-stack web development**, **Android development**, and **cybersecurity**. I build scalable, efficient, and innovative solutions while tackling complex challenges and pushing technological boundaries.
 
 </div>
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 | 🌍 **Location** | 🎯 **Specialization** | 📚 **Learning** |
 |:---:|:---:|:---:|
-| **Kenya** | **Full-Stack & Mobile Development** | **AI & Machine Learning** |
+| **Kenya** | **Full-Stack Development** | **AI & ML** |
 
 </div>
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 ## ⚡ Professional Highlights
 
 </div>
 
-<div align="left">
+<div align="left" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 - 🎯 **Currently Developing:** Enterprise-grade Android applications with advanced features, optimal performance, and seamless user experiences
 - 🧠 **Expanding Knowledge In:** Artificial Intelligence, Machine Learning, and Deep Learning applications in real-world scenarios
@@ -80,7 +80,7 @@
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 ## 🛠️ Technology Arsenal
 
@@ -171,13 +171,13 @@
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 ## 📊 Proficiency Matrix
 
 </div>
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 | **Skill** | **Proficiency** | **Experience** |
 |:---:|:---:|:---:|
@@ -192,7 +192,7 @@
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 ## 📈 GitHub Analytics & Metrics
 
@@ -200,19 +200,19 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&theme=github_dark&title_color=10B981&text_color=ffffff&icon_color=10B981&bg_color=0d1117&hide_border=true&rank_icon=github)](https://github.com/OTIENO272)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&theme=github_dark&title_color=10B981&text_color=ffffff&icon_color=10B981&bg_color=0d1117&hide_border=true)](https://github.com/OTIENO272)
 
 </div>
 
 <div align="center">
 
-[![Streak Stats](https://streak-stats.demolab.com?user=OTIENO272&theme=github-dark&hide_border=true&background=0d1117&stroke=10B981&ring=10B981&fire=10B981&currStreakNum=10B981&currStreakLabel=ffffff)](https://github.com/OTIENO272)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=OTIENO272&theme=github_dark&hide_border=true&background=0d1117&stroke=ffffff&ring=10B981&fire=10B981&currStreakNum=10B981&currStreakLabel=10B981)](https://github.com/OTIENO272)
 
 </div>
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 ## 🌐 Language Proficiency & Activity
 
@@ -226,13 +226,13 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github&hide_border=true&bg_color=0d1117&color=10B981&line=10B981&point=34d399&area=true&area_color=064e3b)](https://github.com/OTIENO272)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github&hide_border=true&bg_color=0d1117&color=10B981&line=10B981&point=34d399&area=true&area_color=047857)](https://github.com/OTIENO272)
 
 </div>
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 ## 🏆 Achievements & Recognition
 
@@ -246,13 +246,13 @@
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 ## 🔥 Highlighted Repositories
 
 </div>
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 **Explore My Portfolio & Projects:**
 - 🌐 **Portfolio Website:** [Victor Otieno's Portfolio](https://otieno272.github.io/portfolioupdate/)
@@ -263,7 +263,7 @@
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 ## 💡 Developer Quote
 
@@ -277,17 +277,17 @@
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 ## 📮 Let's Connect & Collaborate
 
 </div>
 
-<p align="center">
+<p align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
   <em>I am always open to discussing innovative projects, collaborating on exciting opportunities, and connecting with fellow developers and tech enthusiasts worldwide.</em>
 </p>
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 | **Platform** | **Link** | **Status** |
 |:---:|:---:|:---:|
@@ -301,7 +301,7 @@
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 ## 💬 Open For
 
@@ -315,7 +315,7 @@
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 ### 🌟 Show Some Love!
 
@@ -329,7 +329,7 @@ If you find my projects interesting or my profile inspiring, please consider:
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 
 ```
 ╔════════════════════════════════════════════════════════════╗
