@@ -206,7 +206,7 @@ Passionate problem-solver from Kenya 🌍 specializing in **full-stack web devel
 
 <div align="center">
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=OTIENO272&theme=github_dark&hide_border=true&background=0d1117&stroke=ffffff&ring=10B981&fire=10B981&currStreakNum=10B981&currStreakLabel=10B981)](https://github.com/OTIENO272)
+[![Streak Stats](https://streak-stats.demolab.com?user=OTIENO272&theme=github_dark&hide_border=true&background=0d1117&stroke=10B981&ring=10B981&fire=10B981&currStreakNum=10B981&currStreakLabel=10B981)](https://github.com/OTIENO272)
 
 </div>
 
