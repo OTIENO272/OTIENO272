@@ -200,13 +200,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&theme=github_dark&title_color=10B981&text_color=ffffff&icon_color=10B981&bg_color=0d1117&hide_border=true&rank_icon=github)](https://github.com/OTIENO272)
-
-</div>
-
-<div align="center">
-
-[![Streak Stats](https://github-readme-streak-stats.demolab.com/?user=OTIENO272&theme=github-dark&hide_border=true&background=0d1117&stroke=10B981&ring=10B981&fire=10B981&currStreakNum=10B981&currStreakLabel=10B981)](https://github.com/OTIENO272)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&theme=github_dark&title_color=10B981&text_color=ffffff&icon_color=10B981&bg_color=0d1117&hide_border=true&rank_icon=github)
 
 </div>
 
@@ -220,13 +214,13 @@
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&theme=github_dark&title_color=10B981&text_color=ffffff&bg_color=0d1117&hide_border=true)](https://github.com/OTIENO272)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&theme=github_dark&title_color=10B981&text_color=ffffff&bg_color=0d1117&hide_border=true)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github&hide_border=true&bg_color=0d1117&color=10B981&line=10B981&point=34d399&area=true&area_color=064e3b)](https://github.com/OTIENO272)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github&hide_border=true&bg_color=0d1117&color=10B981&line=10B981&point=34d399&area=true&area_color=064e3b)
 
 </div>
 
@@ -240,7 +234,26 @@
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OTIENO272&theme=github_dark&no-frame=false&no-bg=false&margin-w=15&column=6)](https://github.com/OTIENO272)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OTIENO272&theme=github_dark&no-frame=false&no-bg=false&margin-w=15&column=6)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Contribution Stats
+
+</div>
+
+<div align="center">
+
+| Metric | Value |
+|:---:|:---:|
+| 📌 Total Commits | Track on [Profile](https://github.com/OTIENO272) |
+| 🔥 Active Repositories | [View Here](https://github.com/OTIENO272?tab=repositories) |
+| 💡 Contributions | Ongoing & Growing |
+| 🎯 Focus Areas | Full-Stack, Android, Security |
 
 </div>
 
