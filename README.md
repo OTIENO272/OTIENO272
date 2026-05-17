@@ -208,32 +208,6 @@
 
 <div align="center">
 
-## 🔥 Contribution Streak
-
-</div>
-
-<div align="center">
-
-### 📊 GitHub Contribution Insights
-
-Your GitHub profile showcases your consistent dedication to coding and open-source contribution. 
-
-**Track your streak and contributions directly on GitHub:**
-
-[![GitHub Profile](https://img.shields.io/badge/View%20Your%20Streak-On%20GitHub-10B981?style=for-the-badge&logo=github)](https://github.com/OTIENO272)
-
-**Check your stats:**
-- 🔗 Visit: https://github.com/OTIENO272
-- 📊 View your contribution graph
-- 🔥 See your current streak
-- 📈 Track your repositories
-
-</div>
-
----
-
-<div align="center">
-
 ## 🌐 Language Proficiency & Activity
 
 </div>
@@ -247,6 +221,31 @@ Your GitHub profile showcases your consistent dedication to coding and open-sour
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github&hide_border=true&bg_color=0d1117&color=10B981&line=10B981&point=34d399&area=true&area_color=064e3b)](https://github.com/OTIENO272)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Contribution Streak & Stats
+
+</div>
+
+<div align="center">
+
+### 📊 GitHub Contribution Insights
+
+Your GitHub profile showcases your consistent dedication to coding and open-source contributions.
+
+**Track your contributions directly on GitHub:**
+
+[![GitHub Profile](https://img.shields.io/badge/View%20Your%20Profile%20%26%20Streak-On%20GitHub-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OTIENO272)
+
+**Direct Links to Your GitHub Stats:**
+- 🔗 **Main Profile:** [github.com/OTIENO272](https://github.com/OTIENO272)
+- 📊 **Repositories:** [View All Projects](https://github.com/OTIENO272?tab=repositories)
+- 🌐 **Contributions Graph:** [See Your Activity](https://github.com/OTIENO272?tab=contributions)
 
 </div>
 
