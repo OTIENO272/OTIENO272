@@ -200,7 +200,33 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&theme=github_dark&title_color=10B981&text_color=ffffff&icon_color=10B981&bg_color=0d1117&hide_border=true&rank_icon=github)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&theme=github_dark&title_color=10B981&text_color=ffffff&icon_color=10B981&bg_color=0d1117&hide_border=true&rank_icon=github)](https://github.com/OTIENO272)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Contribution Streak
+
+</div>
+
+<div align="center">
+
+### 📊 GitHub Contribution Insights
+
+Your GitHub profile showcases your consistent dedication to coding and open-source contribution. 
+
+**Track your streak and contributions directly on GitHub:**
+
+[![GitHub Profile](https://img.shields.io/badge/View%20Your%20Streak-On%20GitHub-10B981?style=for-the-badge&logo=github)](https://github.com/OTIENO272)
+
+**Check your stats:**
+- 🔗 Visit: https://github.com/OTIENO272
+- 📊 View your contribution graph
+- 🔥 See your current streak
+- 📈 Track your repositories
 
 </div>
 
@@ -214,13 +240,13 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&theme=github_dark&title_color=10B981&text_color=ffffff&bg_color=0d1117&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&theme=github_dark&title_color=10B981&text_color=ffffff&bg_color=0d1117&hide_border=true)](https://github.com/OTIENO272)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github&hide_border=true&bg_color=0d1117&color=10B981&line=10B981&point=34d399&area=true&area_color=064e3b)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github&hide_border=true&bg_color=0d1117&color=10B981&line=10B981&point=34d399&area=true&area_color=064e3b)](https://github.com/OTIENO272)
 
 </div>
 
@@ -234,26 +260,7 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OTIENO272&theme=github_dark&no-frame=false&no-bg=false&margin-w=15&column=6)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Contribution Stats
-
-</div>
-
-<div align="center">
-
-| Metric | Value |
-|:---:|:---:|
-| 📌 Total Commits | Track on [Profile](https://github.com/OTIENO272) |
-| 🔥 Active Repositories | [View Here](https://github.com/OTIENO272?tab=repositories) |
-| 💡 Contributions | Ongoing & Growing |
-| 🎯 Focus Areas | Full-Stack, Android, Security |
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OTIENO272&theme=github_dark&no-frame=false&no-bg=false&margin-w=15&column=6)](https://github.com/OTIENO272)
 
 </div>
 
