@@ -1,12 +1,11 @@
 <div align="center">
 
-```
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
 ║              👋 WELCOME TO MY GITHUB PROFILE 👋                      ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
-```
+
 
 # 🚀 Victor Otieno
 
@@ -22,7 +21,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=OTIENO272&label=PROFILE%20VIEWS&color=10B981&style=for-the-badge)](https://github.com/OTIENO272)
 [![GitHub followers](https://img.shields.io/github/followers/OTIENO272?logo=github&style=for-the-badge&color=10B981&labelColor=1c1917)](https://github.com/OTIENO272)
-[![Twitter Follow](https://img.shields.io/twitter/follow/OtienoVictor?logo=twitter&style=for-the-badge&color=10B981&labelColor=1c1917)](https://twitter.com/OtienoVictor)
+[![Twitter Follow](https://img.shields.io/twitter/follow/OtienoVictor?logo=x&style=for-the-badge&color=10B981&labelColor=1c1917)](https://twitter.com/OtienoVictor)
 
 ---
 
@@ -31,7 +30,7 @@
 <a href="https://otieno272.github.io/portfolioupdate/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=firefox&logoColor=10B981" alt="Portfolio" /></a>
 <a href="mailto:otieno272@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/OTIENO272" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.x.com/OtienoVictor" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://www.x.com/OtienoVictor" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
 <a href="https://linkedin.com/in/victor-otieno" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
@@ -66,17 +65,13 @@
 
 </div>
 
-<div align="left">
-
-- 🎯 **Currently Developing:** Enterprise-grade Android applications with advanced features, optimal performance, and seamless user experiences
-- 🧠 **Expanding Knowledge In:** Artificial Intelligence, Machine Learning, and Deep Learning applications in real-world scenarios
-- 🤝 **Collaborating On:** Cybersecurity initiatives, innovative technology solutions, and meaningful open-source projects
-- ⚡ **Core Strength:** Efficient debugging, complex problem-solving, and delivering high-performance solutions under pressure
-- 📈 **Professional Ethos:** Continuous skill development and staying abreast of emerging technologies and industry best practices
-- 💡 **Driven By:** Creating innovative products that address real-world challenges and deliver measurable impact
-- 🏆 **Vision:** Establishing myself as a leader in technological innovation with a track record of excellence and integrity
-
-</div>
+- 🎯 **Currently Developing:** Enterprise-grade Android applications with advanced features, optimal performance, and seamless user experiences.
+- 🧠 **Expanding Knowledge In:** Artificial Intelligence, Machine Learning, and Deep Learning applications in real-world scenarios.
+- 🤝 **Collaborating On:** Cybersecurity initiatives, innovative technology solutions, and meaningful open-source projects.
+- ⚡ **Core Strength:** Efficient debugging, complex problem-solving, and delivering high-performance solutions under pressure.
+- 📈 **Professional Ethos:** Continuous skill development and staying abreast of emerging technologies and industry best practices.
+- 💡 **Driven By:** Creating innovative products that address real-world challenges and deliver measurable impact.
+- 🏆 **Vision:** Establishing myself as a leader in technological innovation with a track record of excellence and integrity.
 
 ---
 
@@ -175,10 +170,6 @@
 
 ## 📊 Proficiency Matrix
 
-</div>
-
-<div align="center">
-
 | **Skill** | **Proficiency** | **Experience** |
 |:---:|:---:|:---:|
 | 🎨 Frontend Development | ⭐⭐⭐⭐⭐ | 80% | 
@@ -196,10 +187,6 @@
 
 ## 📈 GitHub Analytics & Metrics
 
-</div>
-
-<div align="center">
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&theme=github_dark&title_color=10B981&text_color=ffffff&icon_color=10B981&bg_color=0d1117&hide_border=true&rank_icon=github)](https://github.com/OTIENO272)
 
 </div>
@@ -210,15 +197,7 @@
 
 ## 🌐 Language Proficiency & Activity
 
-</div>
-
-<div align="center">
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&theme=github_dark&title_color=10B981&text_color=ffffff&bg_color=0d1117&hide_border=true)](https://github.com/OTIENO272)
-
-</div>
-
-<div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github&hide_border=true&bg_color=0d1117&color=10B981&line=10B981&point=34d399&area=true&area_color=064e3b)](https://github.com/OTIENO272)
 
@@ -230,22 +209,7 @@
 
 ## 🔥 Contribution Streak & Stats
 
-</div>
-
-<div align="center">
-
-### 📊 GitHub Contribution Insights
-
-Your GitHub profile showcases your consistent dedication to coding and open-source contributions.
-
-**Track your contributions directly on GitHub:**
-
-[![GitHub Profile](https://img.shields.io/badge/View%20Your%20Profile%20%26%20Streak-On%20GitHub-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OTIENO272)
-
-**Direct Links to Your GitHub Stats:**
-- 🔗 **Main Profile:** [github.com/OTIENO272](https://github.com/OTIENO272)
-- 📊 **Repositories:** [View All Projects](https://github.com/OTIENO272?tab=repositories)
-- 🌐 **Contributions Graph:** [See Your Activity](https://github.com/OTIENO272?tab=contributions)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OTIENO272&theme=github-dark-teal&background=0d1117&fire=10B981&ring=10B981&sideLabels=ffffff)](https://github.com/OTIENO272)
 
 </div>
 
@@ -254,10 +218,6 @@ Your GitHub profile showcases your consistent dedication to coding and open-sour
 <div align="center">
 
 ## 🏆 Achievements & Recognition
-
-</div>
-
-<div align="center">
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OTIENO272&theme=github_dark&no-frame=false&no-bg=false&margin-w=15&column=6)](https://github.com/OTIENO272)
 
@@ -268,10 +228,6 @@ Your GitHub profile showcases your consistent dedication to coding and open-sour
 <div align="center">
 
 ## 🔥 Highlighted Repositories
-
-</div>
-
-<div align="center">
 
 **Explore My Portfolio & Projects:**
 - 🌐 **Portfolio Website:** [Victor Otieno's Portfolio](https://otieno272.github.io/portfolioupdate/)
@@ -286,11 +242,7 @@ Your GitHub profile showcases your consistent dedication to coding and open-sour
 
 ## 💡 Developer Quote
 
-</div>
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+[![Quotes Radar](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)](https://github.com/adeekshith/quotes-github-readme)
 
 </div>
 
@@ -300,20 +252,14 @@ Your GitHub profile showcases your consistent dedication to coding and open-sour
 
 ## 📮 Let's Connect & Collaborate
 
-</div>
-
-<p align="center">
-  <em>I am always open to discussing innovative projects, collaborating on exciting opportunities, and connecting with fellow developers and tech enthusiasts worldwide.</em>
-</p>
-
-<div align="center">
+<p><em>I am always open to discussing innovative projects, collaborating on exciting opportunities, and connecting with fellow developers and tech enthusiasts worldwide.</em></p>
 
 | **Platform** | **Link** | **Status** |
 |:---:|:---:|:---:|
 | 📧 **Email** | [otieno272@gmail.com](mailto:otieno272@gmail.com) | ✅ Available |
 | 🌐 **Portfolio** | [Portfolio Website](https://otieno272.github.io/portfolioupdate/) | 🚀 Live |
 | 🐙 **GitHub** | [@OTIENO272](https://github.com/OTIENO272) | ⭐ Active |
-| 🐦 **Twitter** | [@OtienoVictor](https://twitter.com/OtienoVictor) | 💬 Follow |
+| 🐦 **Twitter / X** | [@OtienoVictor](https://twitter.com/OtienoVictor) | 💬 Follow |
 | 💼 **LinkedIn** | [Victor Otieno](https://linkedin.com/in/victor-otieno) | 🤝 Connect |
 
 </div>
@@ -324,17 +270,9 @@ Your GitHub profile showcases your consistent dedication to coding and open-sour
 
 ## 💬 Open For
 
-<div>
-
 🎯 **Full-Time Opportunities** | 💼 **Contract Work** | 🤝 **Collaborations** | 📚 **Knowledge Sharing** | 🚀 **Startup Ideas**
 
-</div>
-
-</div>
-
 ---
-
-<div align="center">
 
 ### 🌟 Show Some Love!
 
@@ -344,18 +282,13 @@ If you find my projects interesting or my profile inspiring, please consider:
 - 💬 **Connecting** with me on social media
 - 🤝 **Collaborating** on exciting projects
 
-</div>
-
 ---
 
-<div align="center">
-
-```
 ╔════════════════════════════════════════════════════════════╗
 ║  Made with ❤️  by Victor Otieno  |  2026                  ║
 ║  "Code, Innovate, Inspire, Transform"                     ║
 ╚════════════════════════════════════════════════════════════╝
-```
+
 
 ### ⭐ **Thank You for Visiting My Profile!** ⭐
 
