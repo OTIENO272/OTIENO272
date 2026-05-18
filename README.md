@@ -1,17 +1,17 @@
 <div align="center">
 
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║              👋 WELCOME TO MY GITHUB PROFILE 👋                      ║
-║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                     ║
+║              👋 WELCOME TO MY GITHUB PROFILE 👋                    ║
+║                                                                     ║
+╚════════════════════════════════════════════════════════════════════╝
 
 
 # 🚀 Victor Otieno
 
 ### Computer Engineer | Full-Stack Developer | Tech Innovator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=10B981&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Passionate+About+Innovation+%26+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=10B981&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Passionate+About+Innovation" alt="Typing SVG" />
 
 ---
 
@@ -45,7 +45,7 @@
 
 <div style="background: linear-gradient(135deg, #064e3b 0%, #047857 100%); padding: 30px; border-radius: 10px; margin: 20px 0; color: white;">
 
-**Passionate problem-solver from Kenya 🌍** dedicated to advancing technological innovation. I specialize in developing **scalable, efficient, and innovative solutions** across diverse platforms. With extensive expertise in **full-stack web development**, **Android application development**, and **cybersecurity**, I am committed to tackling complex technical challenges and pushing the boundaries of what is possible in technology.
+**Passionate problem-solver from Kenya 🌍** dedicated to advancing technological innovation. I specialize in developing **scalable, efficient, and innovative solutions** across diverse platforms and technologies.
 
 </div>
 
@@ -187,7 +187,7 @@
 
 ## 📈 GitHub Analytics & Metrics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&theme=github_dark&title_color=10B981&text_color=ffffff&icon_color=10B981&bg_color=0d1117&hide_border=true&rank_icon=github)](https://github.com/OTIENO272)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&theme=github_dark&title_color=10B981&text_color=ffffff&icon_color=10B981&bg_color=0d1117&hide_border=true)](https://github.com/OTIENO272)
 
 </div>
 
@@ -199,7 +199,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&theme=github_dark&title_color=10B981&text_color=ffffff&bg_color=0d1117&hide_border=true)](https://github.com/OTIENO272)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github&hide_border=true&bg_color=0d1117&color=10B981&line=10B981&point=34d399&area=true&area_color=064e3b)](https://github.com/OTIENO272)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github&hide_border=true&bg_color=0d1117&color=10B981&line=10B981&point=34d399&area=true&area_color=10B98133)](https://github.com/OTIENO272)
 
 </div>
 
