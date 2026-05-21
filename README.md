@@ -1,29 +1,17 @@
 <div align="center">
 
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
-  
-  * {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  }
-  
-  code, pre {
-    font-family: 'JetBrains Mono', 'Fira Code', monospace;
-  }
-</style>
-
-╔════════════════════════════════════════════════════════════════════════════╗
+╔═════════════════════════════════════════════════════════════════╗
 ║                                                                            ║
 ║              👋 WELCOME TO MY GITHUB PROFILE 👋                           ║
 ║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
+╚═════════════════════════════════════════════════════════════════╝
 
 
 # 🚀 Victor Otieno
 
 ### Computer Engineer | Full-Stack Developer | Tech Innovator
 
-<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&color=10B981&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Innovating+for+Tomorrow" alt="Typing SVG" />
+<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&color=10B981&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Innovating+For+Impact" alt="Typing SVG" />
 
 ---
 
@@ -55,9 +43,9 @@
 
 </div>
 
-<div style="background: linear-gradient(135deg, #064e3b 0%, #047857 100%); padding: 35px; border-radius: 12px; margin: 25px 0; color: white; font-size: 16px; line-height: 1.6; font-family: 'Inter', sans-serif;">
+<div style="background: linear-gradient(135deg, #064e3b 0%, #047857 100%); padding: 35px; border-radius: 12px; margin: 25px 0; color: white; font-size: 16px; line-height: 1.6;">
 
-**Passionate problem-solver from Kenya 🌍** dedicated to advancing technological innovation. I specialize in developing **scalable, efficient, and innovative solutions** across diverse platforms. With expertise in full-stack development, mobile applications, and emerging technologies, I'm committed to building products that make a real-world impact.
+**Passionate problem-solver from Kenya 🌍** dedicated to advancing technological innovation. I specialize in developing **scalable, efficient, and innovative solutions** across diverse platforms. With expertise in full-stack development, mobile engineering, and cybersecurity, I transform ideas into impactful digital experiences.
 
 </div>
 
@@ -77,8 +65,6 @@
 
 </div>
 
-<div style="font-family: 'Inter', sans-serif; font-size: 15px; line-height: 1.8; color: #e0e0e0; margin: 20px 0;">
-
 - 🎯 **Currently Developing:** Enterprise-grade Android applications with advanced features, optimal performance, and seamless user experiences.
 - 🧠 **Expanding Knowledge In:** Artificial Intelligence, Machine Learning, and Deep Learning applications in real-world scenarios.
 - 🤝 **Collaborating On:** Cybersecurity initiatives, innovative technology solutions, and meaningful open-source projects.
@@ -86,8 +72,6 @@
 - 📈 **Professional Ethos:** Continuous skill development and staying abreast of emerging technologies and industry best practices.
 - 💡 **Driven By:** Creating innovative products that address real-world challenges and deliver measurable impact.
 - 🏆 **Vision:** Establishing myself as a leader in technological innovation with a track record of excellence and integrity.
-
-</div>
 
 ---
 
@@ -209,9 +193,6 @@
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9cacc)
 
-### Repository Statistics
-![Repo Stats](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github-dark&hide_border=true&area=true)
-
 </div>
 
 ---
@@ -232,8 +213,7 @@
 
 ## 🔥 Contribution Streak & Stats
 
-### GitHub Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=OTIENO272&theme=github-dark&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=c9cacc&sideNums=c9cacc)](https://github.com/OTIENO272)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=OTIENO272&theme=github-dark&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=c9cacc&sideNums=c9cacc&currStreakLabel=10b981&sideLabels=10b981&dates=c9cacc)](https://github.com/OTIENO272)
 
 ### Contribution Activity
 | Stat | Value |
@@ -251,17 +231,6 @@
 ## 🏆 Achievements & Recognition
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OTIENO272&theme=github_dark&no-frame=false&no-bg=false&margin-w=15&column=6)](https://github.com/OTIENO272)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 Contribution Graph
-
-### Recent Activity
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github-dark&hide_border=true&area=true)
 
 </div>
 
@@ -294,7 +263,7 @@
 
 ## 📮 Let's Connect & Collaborate
 
-<p style="font-family: 'Inter', sans-serif; font-size: 16px; font-weight: 500; line-height: 1.6;"><em>I am always open to discussing innovative projects, collaborating on exciting opportunities, and exploring new ideas that push the boundaries of technology. Let's connect and build something extraordinary together!</em></p>
+I am always open to discussing innovative projects, collaborating on exciting opportunities, and exploring how we can create meaningful impact together.
 
 | **Platform** | **Link** | **Status** |
 |:---:|:---:|:---:|
@@ -318,7 +287,7 @@
 
 ### 🌟 Show Some Love!
 
-<p style="font-family: 'Inter', sans-serif; font-size: 15px; font-weight: 500; line-height: 1.7;">If you find my projects interesting or my profile inspiring, please consider:</p>
+If you find my projects interesting or my profile inspiring, please consider:
 
 - ⭐ **Starring** my repositories
 - 🔔 **Following** me for updates
@@ -327,10 +296,10 @@
 
 ---
 
-╔════════════════════════════════════════════════════════════════════════════╗
+╔═════════════════════════════════════════════════════════════════╗
 ║  Made with ❤️  by Victor Otieno  |  2026                                  ║
 ║  "Code, Innovate, Inspire, Transform"                                     ║
-╚════════════════════════════════════════════════════════════════════════════╝
+╚═════════════════════════════════════════════════════════════════╝
 
 
 ### ⭐ **Thank You for Visiting My Profile!** ⭐
