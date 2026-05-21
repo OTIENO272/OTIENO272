@@ -1,17 +1,29 @@
 <div align="center">
 
-╔════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                ║
-║              👋 WELCOME TO MY GITHUB PROFILE 👋                               ║
-║                                                                                ║
-╚════════════════════════════════════════════════════════════════════════════════╝
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
+  
+  * {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+  
+  code, pre {
+    font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  }
+</style>
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║              👋 WELCOME TO MY GITHUB PROFILE 👋                           ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
 
 
 # 🚀 Victor Otieno
 
 ### Computer Engineer | Full-Stack Developer | Tech Innovator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=10B981&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Innovating+Tomorrow+Today" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=10B981&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Innovating+With+Technology" alt="Typing SVG" />
 
 ---
 
@@ -30,7 +42,7 @@
 <a href="https://otieno272.github.io/portfolioupdate/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=firefox&logoColor=10B981" alt="Portfolio" /></a>
 <a href="mailto:otieno272@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/OTIENO272" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.x.com/OtienoVictor" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+<a href="https://www.x.com/OtienoVictor" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://linkedin.com/in/victor-otieno" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
@@ -43,9 +55,9 @@
 
 </div>
 
-<div style="background: linear-gradient(135deg, #064e3b 0%, #047857 100%); padding: 30px; border-radius: 10px; margin: 20px 0; color: white;">
+<div style="background: linear-gradient(135deg, #064e3b 0%, #047857 100%); padding: 35px; border-radius: 12px; margin: 25px 0; color: white; font-size: 16px; line-height: 1.6; font-family: 'Inter', sans-serif; font-weight: 500;">
 
-**Passionate problem-solver from Kenya 🌍** dedicated to advancing technological innovation. I specialize in developing **scalable, efficient, and innovative solutions** across diverse platforms including web, mobile, and cloud infrastructure.
+**Passionate problem-solver from Kenya 🌍** dedicated to advancing technological innovation. I specialize in developing **scalable, efficient, and innovative solutions** across diverse platforms. With a strong foundation in computer engineering, I combine technical expertise with creative problem-solving to deliver impactful results.
 
 </div>
 
@@ -65,6 +77,8 @@
 
 </div>
 
+<div style="font-family: 'Inter', sans-serif; font-size: 15px; line-height: 1.8; color: #e0e0e0; margin: 20px 0;">
+
 - 🎯 **Currently Developing:** Enterprise-grade Android applications with advanced features, optimal performance, and seamless user experiences.
 - 🧠 **Expanding Knowledge In:** Artificial Intelligence, Machine Learning, and Deep Learning applications in real-world scenarios.
 - 🤝 **Collaborating On:** Cybersecurity initiatives, innovative technology solutions, and meaningful open-source projects.
@@ -72,6 +86,8 @@
 - 📈 **Professional Ethos:** Continuous skill development and staying abreast of emerging technologies and industry best practices.
 - 💡 **Driven By:** Creating innovative products that address real-world challenges and deliver measurable impact.
 - 🏆 **Vision:** Establishing myself as a leader in technological innovation with a track record of excellence and integrity.
+
+</div>
 
 ---
 
@@ -217,7 +233,7 @@
 ## 🔥 Contribution Streak & Stats
 
 ### GitHub Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OTIENO272&theme=github-dark&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=c9cacc&sideNums=c9cacc&currStreakLabel=10b981&sideLabels=10b981&dates=c9cacc)](https://github.com/OTIENO272)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OTIENO272&theme=github-dark&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=c9cacc&sideNums=c9cacc)](https://github.com/OTIENO272)
 
 ### Contribution Activity
 | Stat | Value |
@@ -278,14 +294,14 @@
 
 ## 📮 Let's Connect & Collaborate
 
-<p><em>I am always open to discussing innovative projects, collaborating on exciting opportunities, and connecting with fellow developers and tech enthusiasts worldwide.</em></p>
+<p style="font-family: 'Inter', sans-serif; font-size: 16px; font-weight: 500; line-height: 1.6;"><em>I am always open to discussing innovative projects, collaborating on exciting opportunities, and connecting with fellow developers and tech enthusiasts worldwide.</em></p>
 
 | **Platform** | **Link** | **Status** |
 |:---:|:---:|:---:|
 | 📧 **Email** | [otieno272@gmail.com](mailto:otieno272@gmail.com) | ✅ Available |
 | 🌐 **Portfolio** | [Portfolio Website](https://otieno272.github.io/portfolioupdate/) | 🚀 Live |
 | 🐙 **GitHub** | [@OTIENO272](https://github.com/OTIENO272) | ⭐ Active |
-| 🐦 **Twitter / X** | [@OtienoVictor](https://twitter.com/OtienoVictor) | 💬 Follow |
+| 🐦 **X / Twitter** | [@OtienoVictor](https://twitter.com/OtienoVictor) | 💬 Follow |
 | 💼 **LinkedIn** | [Victor Otieno](https://linkedin.com/in/victor-otieno) | 🤝 Connect |
 
 </div>
@@ -302,7 +318,8 @@
 
 ### 🌟 Show Some Love!
 
-If you find my projects interesting or my profile inspiring, please consider:
+<p style="font-family: 'Inter', sans-serif; font-size: 15px; font-weight: 500; line-height: 1.7;">If you find my projects interesting or my profile inspiring, please consider:</p>
+
 - ⭐ **Starring** my repositories
 - 🔔 **Following** me for updates
 - 💬 **Connecting** with me on social media
@@ -310,10 +327,10 @@ If you find my projects interesting or my profile inspiring, please consider:
 
 ---
 
-╔════════════════════════════════════════════════════════════╗
-║  Made with ❤️  by Victor Otieno  |  2026                  ║
-║  "Code, Innovate, Inspire, Transform"                     ║
-╚════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════╗
+║  Made with ❤️  by Victor Otieno  |  2026                                  ║
+║  "Code, Innovate, Inspire, Transform"                                     ║
+╚════════════════════════════════════════════════════════════════════════════╝
 
 
 ### ⭐ **Thank You for Visiting My Profile!** ⭐
