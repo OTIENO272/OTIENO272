@@ -1,17 +1,17 @@
 <div align="center">
 
-╔════════════════════════════════════════════════════════════════╗
-║                                                                     ║
-║              👋 WELCOME TO MY GITHUB PROFILE 👋                    ║
-║                                                                     ║
-╚════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║              👋 WELCOME TO MY GITHUB PROFILE 👋                               ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
 
 
 # 🚀 Victor Otieno
 
 ### Computer Engineer | Full-Stack Developer | Tech Innovator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=10B981&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Innovating+with+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=10B981&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Innovating+Tomorrow+Today" alt="Typing Animation" />
 
 ---
 
@@ -45,7 +45,7 @@
 
 <div style="background: linear-gradient(135deg, #064e3b 0%, #047857 100%); padding: 30px; border-radius: 10px; margin: 20px 0; color: white;">
 
-**Passionate problem-solver from Kenya 🌍** dedicated to advancing technological innovation. I specialize in developing **scalable, efficient, and innovative solutions** across diverse platforms with a focus on quality, performance, and user experience.
+**Passionate problem-solver from Kenya 🌍** dedicated to advancing technological innovation. I specialize in developing **scalable, efficient, and innovative solutions** across diverse platforms including web, mobile, and cloud infrastructure.
 
 </div>
 
@@ -187,11 +187,14 @@
 
 ## 📈 GitHub Analytics & Metrics
 
-<!-- GitHub Stats Badge - Alternative: Using GitHub REST API direct link -->
-<a href="https://github.com/OTIENO272"><img src="https://img.shields.io/badge/Check_My_Stats-Click_Here-10B981?style=for-the-badge&logo=github" alt="GitHub Stats" /></a>
+### GitHub Stats Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9cacc&icon_color=10b981)
 
-<!-- Alternative Stats Display -->
-**📊 [View Full Analytics Dashboard](https://github.com/OTIENO272?tab=repositories)**
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9cacc)
+
+### Repository Statistics
+![Repo Stats](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github-dark&hide_border=true&area=true)
 
 </div>
 
@@ -201,10 +204,8 @@
 
 ## 🌐 Language Proficiency & Activity
 
-<!-- Languages - Using alternative badge service -->
 [![Languages](https://img.shields.io/badge/Top_Languages-See_Repositories-10B981?style=for-the-badge&logo=github)](https://github.com/OTIENO272?tab=repositories)
 
-<!-- Activity - Direct link to your profile -->
 **[View Your Activity Timeline](https://github.com/OTIENO272?tab=overview)**
 
 </div>
@@ -215,14 +216,15 @@
 
 ## 🔥 Contribution Streak & Stats
 
-<!-- GitHub Streak - Alternative: Using simpler badge -->
-[![GitHub Profile](https://img.shields.io/badge/GitHub_Profile-OTIENO272-10B981?style=for-the-badge&logo=github)](https://github.com/OTIENO272)
+### GitHub Contribution Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OTIENO272&theme=github-dark&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=c9cacc&sideNums=c9cacc&currStreakLabel=10b981&sideLabels=10b981&dates=c9cacc)](https://github.com/OTIENO272)
 
-<!-- Quick Stats Summary -->
-| Stat | Badge |
+### Contribution Activity
+| Stat | Value |
 |:---:|:---:|
-| **Visit Profile** | [![GitHub](https://img.shields.io/badge/Profile-Active-10B981)](https://github.com/OTIENO272) |
-| **Open to Work** | [![Status](https://img.shields.io/badge/Status-Available-10B981)](mailto:otieno272@gmail.com) |
+| **Repository Profile** | [![GitHub](https://img.shields.io/badge/Profile-Active-10B981?style=flat-square&logo=github)](https://github.com/OTIENO272) |
+| **Open to Work** | [![Status](https://img.shields.io/badge/Status-Available-10B981?style=flat-square&logo=briefcase)](mailto:otieno272@gmail.com) |
+| **Contributions** | [![Contributions](https://img.shields.io/badge/Always%20Contributing-10B981?style=flat-square&logo=github)](https://github.com/OTIENO272) |
 
 </div>
 
@@ -233,6 +235,17 @@
 ## 🏆 Achievements & Recognition
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OTIENO272&theme=github_dark&no-frame=false&no-bg=false&margin-w=15&column=6)](https://github.com/OTIENO272)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Contribution Graph
+
+### Recent Activity
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=OTIENO272&theme=github-dark&hide_border=true&area=true)
 
 </div>
 
