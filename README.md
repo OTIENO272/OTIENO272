@@ -23,7 +23,7 @@
 
 ### Computer Engineer | Full-Stack Developer | Tech Innovator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=10B981&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Innovating+With+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&color=10B981&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Innovating+for+Tomorrow" alt="Typing SVG" />
 
 ---
 
@@ -55,9 +55,9 @@
 
 </div>
 
-<div style="background: linear-gradient(135deg, #064e3b 0%, #047857 100%); padding: 35px; border-radius: 12px; margin: 25px 0; color: white; font-size: 16px; line-height: 1.6; font-family: 'Inter', sans-serif; font-weight: 500;">
+<div style="background: linear-gradient(135deg, #064e3b 0%, #047857 100%); padding: 35px; border-radius: 12px; margin: 25px 0; color: white; font-size: 16px; line-height: 1.6; font-family: 'Inter', sans-serif;">
 
-**Passionate problem-solver from Kenya 🌍** dedicated to advancing technological innovation. I specialize in developing **scalable, efficient, and innovative solutions** across diverse platforms. With a strong foundation in computer engineering, I combine technical expertise with creative problem-solving to deliver impactful results.
+**Passionate problem-solver from Kenya 🌍** dedicated to advancing technological innovation. I specialize in developing **scalable, efficient, and innovative solutions** across diverse platforms. With expertise in full-stack development, mobile applications, and emerging technologies, I'm committed to building products that make a real-world impact.
 
 </div>
 
@@ -233,7 +233,7 @@
 ## 🔥 Contribution Streak & Stats
 
 ### GitHub Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OTIENO272&theme=github-dark&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=c9cacc&sideNums=c9cacc)](https://github.com/OTIENO272)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=OTIENO272&theme=github-dark&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=c9cacc&sideNums=c9cacc)](https://github.com/OTIENO272)
 
 ### Contribution Activity
 | Stat | Value |
@@ -261,7 +261,7 @@
 ## 📊 Contribution Graph
 
 ### Recent Activity
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=OTIENO272&theme=github-dark&hide_border=true&area=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github-dark&hide_border=true&area=true)
 
 </div>
 
@@ -294,7 +294,7 @@
 
 ## 📮 Let's Connect & Collaborate
 
-<p style="font-family: 'Inter', sans-serif; font-size: 16px; font-weight: 500; line-height: 1.6;"><em>I am always open to discussing innovative projects, collaborating on exciting opportunities, and connecting with fellow developers and tech enthusiasts worldwide.</em></p>
+<p style="font-family: 'Inter', sans-serif; font-size: 16px; font-weight: 500; line-height: 1.6;"><em>I am always open to discussing innovative projects, collaborating on exciting opportunities, and exploring new ideas that push the boundaries of technology. Let's connect and build something extraordinary together!</em></p>
 
 | **Platform** | **Link** | **Status** |
 |:---:|:---:|:---:|
