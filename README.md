@@ -216,6 +216,12 @@
 
 ## 🔥 Contribution Streak & Stats
 
+### 📊 Streak Summary
+| Total Contributions | Current Streak | Longest Streak |
+|:---:|:---:|:---:|
+| 157 | 2 Days | 4 Days |
+| Oct 29, 2017 - Present | Oct 28 - Oct 29 | Jun 7 - Jun 10 |
+
 [![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=OTIENO272&theme=github-dark&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=c9cacc&sideNums=c9cacc&currStreakLabel=10b981&sideLabels=10b981&dates=c9cacc)](https://github.com/OTIENO272)
 
 ### Contribution Activity
