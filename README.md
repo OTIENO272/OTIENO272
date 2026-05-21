@@ -1,17 +1,17 @@
 <div align="center">
 
-╔════════════════════════════════════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════╗
 ║                                                                     ║
 ║              👋 WELCOME TO MY GITHUB PROFILE 👋                    ║
 ║                                                                     ║
-╚════════════════════════════════════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════╝
 
 
 # 🚀 Victor Otieno
 
 ### Computer Engineer | Full-Stack Developer | Tech Innovator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=10B981&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Passionate+About+Innovation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=10B981&center=true&vCenter=true&width=600&height=100&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions;Innovating+with+Technology" alt="Typing SVG" />
 
 ---
 
@@ -45,7 +45,7 @@
 
 <div style="background: linear-gradient(135deg, #064e3b 0%, #047857 100%); padding: 30px; border-radius: 10px; margin: 20px 0; color: white;">
 
-**Passionate problem-solver from Kenya 🌍** dedicated to advancing technological innovation. I specialize in developing **scalable, efficient, and innovative solutions** across diverse platforms and technologies.
+**Passionate problem-solver from Kenya 🌍** dedicated to advancing technological innovation. I specialize in developing **scalable, efficient, and innovative solutions** across diverse platforms with a focus on quality, performance, and user experience.
 
 </div>
 
@@ -187,7 +187,7 @@
 
 ## 📈 GitHub Analytics & Metrics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&theme=github_dark&title_color=10B981&text_color=ffffff&icon_color=10B981&bg_color=0d1117&hide_border=true)](https://github.com/OTIENO272)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&theme=github_dark&title_color=10B981&text_color=ffffff&icon_color=10B981&bg_color=0d1117&hide_border=true&count_private=true)](https://github.com/OTIENO272)
 
 </div>
 
@@ -197,9 +197,9 @@
 
 ## 🌐 Language Proficiency & Activity
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&theme=github_dark&title_color=10B981&text_color=ffffff&bg_color=0d1117&hide_border=true)](https://github.com/OTIENO272)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&theme=github_dark&title_color=10B981&text_color=ffffff&bg_color=0d1117&hide_border=true&card_width=500)](https://github.com/OTIENO272)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github&hide_border=true&bg_color=0d1117&color=10B981&line=10B981&point=34d399&area=true&area_color=10B98133)](https://github.com/OTIENO272)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github-dark&hide_border=true&bg_color=0d1117&color=10B981&line=10B981&point=34d399&area=true&area_color=10B981)](https://github.com/OTIENO272)
 
 </div>
 
