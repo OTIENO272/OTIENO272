@@ -216,11 +216,10 @@
 
 ## 🔥 Contribution Streak & Stats
 
-### 📊 Streak Summary
-| Total Contributions | Current Streak | Longest Streak |
+### 📊 Real-Time GitHub Stats
+| ![Total Contributions](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/OTIENO272&query=public_repos&label=Public%20Repos&color=10B981&style=for-the-badge&logo=github) | ![GitHub Followers](https://img.shields.io/github/followers/OTIENO272?style=for-the-badge&color=10B981&logo=github&label=Followers) | ![GitHub Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/OTIENO272/OTIENO272&query=stargazers_count&label=Stars&suffix=%20⭐&color=10B981&style=for-the-badge&logo=github) |
 |:---:|:---:|:---:|
-| 157 | 2 Days | 4 Days |
-| Oct 29, 2017 - Present | Oct 28 - Oct 29 | Jun 7 - Jun 10 |
+| *Dynamic* | *Dynamic* | *Dynamic* |
 
 [![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=OTIENO272&theme=github-dark&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=c9cacc&sideNums=c9cacc&currStreakLabel=10b981&sideLabels=10b981&dates=c9cacc)](https://github.com/OTIENO272)
 
