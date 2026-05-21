@@ -193,6 +193,9 @@
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9cacc)
 
+### Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github-dark&hide_border=true&area=true)
+
 </div>
 
 ---
