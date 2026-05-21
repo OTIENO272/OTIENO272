@@ -187,7 +187,11 @@
 
 ## 📈 GitHub Analytics & Metrics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&theme=github_dark&title_color=10B981&text_color=ffffff&icon_color=10B981&bg_color=0d1117&hide_border=true&count_private=true)](https://github.com/OTIENO272)
+<!-- GitHub Stats Badge - Alternative: Using GitHub REST API direct link -->
+<a href="https://github.com/OTIENO272"><img src="https://img.shields.io/badge/Check_My_Stats-Click_Here-10B981?style=for-the-badge&logo=github" alt="GitHub Stats" /></a>
+
+<!-- Alternative Stats Display -->
+**📊 [View Full Analytics Dashboard](https://github.com/OTIENO272?tab=repositories)**
 
 </div>
 
@@ -197,9 +201,11 @@
 
 ## 🌐 Language Proficiency & Activity
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&theme=github_dark&title_color=10B981&text_color=ffffff&bg_color=0d1117&hide_border=true&card_width=500)](https://github.com/OTIENO272)
+<!-- Languages - Using alternative badge service -->
+[![Languages](https://img.shields.io/badge/Top_Languages-See_Repositories-10B981?style=for-the-badge&logo=github)](https://github.com/OTIENO272?tab=repositories)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=github-dark&hide_border=true&bg_color=0d1117&color=10B981&line=10B981&point=34d399&area=true&area_color=10B981)](https://github.com/OTIENO272)
+<!-- Activity - Direct link to your profile -->
+**[View Your Activity Timeline](https://github.com/OTIENO272?tab=overview)**
 
 </div>
 
@@ -209,7 +215,14 @@
 
 ## 🔥 Contribution Streak & Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OTIENO272&theme=github-dark-teal&background=0d1117&fire=10B981&ring=10B981&sideLabels=ffffff)](https://github.com/OTIENO272)
+<!-- GitHub Streak - Alternative: Using simpler badge -->
+[![GitHub Profile](https://img.shields.io/badge/GitHub_Profile-OTIENO272-10B981?style=for-the-badge&logo=github)](https://github.com/OTIENO272)
+
+<!-- Quick Stats Summary -->
+| Stat | Badge |
+|:---:|:---:|
+| **Visit Profile** | [![GitHub](https://img.shields.io/badge/Profile-Active-10B981)](https://github.com/OTIENO272) |
+| **Open to Work** | [![Status](https://img.shields.io/badge/Status-Available-10B981)](mailto:otieno272@gmail.com) |
 
 </div>
 
