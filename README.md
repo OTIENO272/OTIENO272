@@ -24,7 +24,12 @@
 
 ## About Me
 
-Passionate problem-solver from **Kenya**, dedicated to advancing technological innovation. I specialize in building **scalable, efficient, and impactful solutions** across full-stack web, mobile, and cloud platforms. With a strong foundation in backend architecture, frontend craft, and cybersecurity, I transform ideas into production-grade digital experiences — and I'm actively expanding into **AI and Machine Learning**.
+const victor = {
+    currentlyLearning: "AI ",
+    passions: ["Video Games", "Coding"],
+    lookingFor: "Full Stack Project Collaborations",
+    motto: "Debug if there is need"
+};
 
 ---
 
