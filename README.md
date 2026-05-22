@@ -24,12 +24,14 @@
 
 ## About Me
 
+```javascript
 const victor = {
-    currentlyLearning: "AI ",
+    currentlyLearning: "AI",
     passions: ["Video Games", "Coding"],
     lookingFor: "Full Stack Project Collaborations",
-    motto: "Debug if there is need"
+    motto: "Build, break, learn, repeat."
 };
+```
 
 ---
 
