@@ -6,7 +6,7 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-# Victor Otieno
+# Victor ,
 
 **Computer Engineer · Full-Stack Developer · Kenya 🌍**
 
