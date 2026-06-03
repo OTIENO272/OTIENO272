@@ -188,7 +188,7 @@ const victor = {
 | 📧 Email | [otieno272@gmail.com](mailto:otieno272@gmail.com) | ✅ Available |
 | 🌐 Portfolio | [portfolioupdate](https://otieno272.github.io/portfolioupdate/) | 🚀 Live |
 | 🐙 GitHub | [@OTIENO272](https://github.com/OTIENO272) | ⭐ Active |
-| 💼 LinkedIn | [Victor Otieno](https://linkedin.com/in/victor-otieno) | 🤝 Connect |
+| 💼 LinkedIn | [Victor Otieno](linkedin.com/in/victor-odhiambo-58163a3b8) | 🤝 Connect |
 | 🐦 X / Twitter | [@OtienoVictor](https://twitter.com/OtienoVictor) | 💬 Follow |
 
 </div>
