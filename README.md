@@ -6,7 +6,7 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-# Victor ,
+# Victor :
 
 **AI || Software Engineer || Full-Stack Developer**
 
