@@ -8,7 +8,7 @@
 
 # Victor ,
 
-**Computer Engineer · Full-Stack Developer · Kenya 🌍**
+**AI || Software Engineer || Full-Stack Developer**
 
 <img src="https://readme-typing-svg.vercel.app?font=Space+Mono&size=16&color=10B981&center=true&vCenter=true&width=600&height=60&lines=Building+Scalable+Solutions;Full-Stack+%26+Mobile+Engineer;Innovating+For+Real-World+Impact" alt="Typing SVG" />
 
