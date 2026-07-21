@@ -10,7 +10,7 @@
 
 **AI || Software Engineer || Full-Stack Developer**
 
-<img src="https://readme-typing-svg.vercel.app?font=Space+Mono&size=16&color=10B981&center=true&vCenter=true&width=600&height=60&lines=Building+Scalable+Solutions;Full-Stack+%26+Mobile+Engineer;Innovating+For+Real-World+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.vercel.app?font=Space+Mono&size=16&color=10B981&center=true&vCenter=true&width=600&height=60&lines=Building+Scalable+Solutions;Full-Stack+%26+Mobile+Engineer;Cybersecurity+Enthusiast;AI%2FML+Developer" alt="typing animation" />
 
 ---
 
@@ -110,9 +110,9 @@ const victor = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&icon_color=10b981" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&icon_color=10b981" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" alt="Top Languages" />
 
 </div>
 
@@ -122,7 +122,7 @@ const victor = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=OTIENO272&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=34d399&currStreakNum=ffffff&sideNums=10b981&currStreakLabel=10b981&sideLabels=10b981&dates=8b949e)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=OTIENO272&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=34d399&currStreakNum=ffffff&sideNums=10b981)](https://github.com/OTIENO272)
 
 </div>
 
@@ -132,7 +132,7 @@ const victor = {
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=react-dark&hide_border=true&bg_color=0d1117&color=10b981&line=10b981&point=34d399&area=true&area_color=064e3b&custom_title=Victor%27s%20Contribution%20Activity)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=OTIENO272&theme=react-dark&hide_border=true&bg_color=0d1117&color=10b981&line=10b981&point=34d399&area=true&area_color=10b981)
 
 </div>
 
@@ -188,7 +188,7 @@ const victor = {
 | 📧 Email | [otieno272@gmail.com](mailto:otieno272@gmail.com) | ✅ Available |
 | 🌐 Portfolio | [portfolioupdate](https://otieno272.github.io/portfolioupdate/) | 🚀 Live |
 | 🐙 GitHub | [@OTIENO272](https://github.com/OTIENO272) | ⭐ Active |
-| 💼 LinkedIn | [Victor Otieno](linkedin.com/in/victor-odhiambo-58163a3b8) | 🤝 Connect |
+| 💼 LinkedIn | [Victor Otieno](https://linkedin.com/in/victor-odhiambo-58163a3b8) | 🤝 Connect |
 | 🐦 X / Twitter | [@OtienoVictor](https://twitter.com/OtienoVictor) | 💬 Follow |
 
 </div>
