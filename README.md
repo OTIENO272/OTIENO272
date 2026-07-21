@@ -110,9 +110,8 @@ const victor = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&icon_color=10b981" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=OTIENO272&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&icon_color=10b981" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTIENO272&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" alt="Top Languages" width="49%"/>
 
 </div>
 
@@ -147,13 +146,11 @@ const victor = {
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OTIENO272&theme=github_dark" height="160" alt="Repos Per Language" />
-&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OTIENO272&theme=github_dark" height="160" alt="Most Commit Language" />
 
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OTIENO272&theme=github_dark" height="160" alt="Stats" />
-&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OTIENO272&theme=github_dark&utcOffset=3" height="160" alt="Productive Time (EAT UTC+3)" />
 
 </div>
