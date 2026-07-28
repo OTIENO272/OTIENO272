@@ -146,6 +146,178 @@ const victor = {
 ---
 
 # 📈 Contribution Graph
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=OTIENO272&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=4"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/OTIENO272/portfolioupdate">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OTIENO272&repo=portfolioupdate&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+</a>
+
+<a href="https://github.com/OTIENO272">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OTIENO272&repo=YOUR_BEST_REPOSITORY&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+</a>
+
+</div>
+
+> **Replace `YOUR_BEST_REPOSITORY` with one of your actual repositories.**
+
+---
+
+# 📈 Professional Skills
+
+| Skill | Level |
+|:-----------------------------|:------------------------------------:|
+| 🌐 Frontend Development | █████████░ 90% |
+| ⚙️ Backend Development | █████████░ 90% |
+| 📱 Android Development | ████████░░ 80% |
+| 🤖 Artificial Intelligence | ███████░░░ 70% |
+| 🔐 Cybersecurity | ███████░░░ 70% |
+| ☁️ Cloud Computing | ███████░░░ 70% |
+| 🗄 Database Design | █████████░ 90% |
+| 🎮 Game Development | ██████░░░░ 60% |
+
+---
+
+# 🌱 Currently Learning
+
+```text
+✓ Artificial Intelligence
+
+✓ Machine Learning
+
+✓ Deep Learning
+
+✓ Cloud Architecture
+
+✓ Kubernetes
+
+✓ Docker
+
+✓ Advanced System Design
+
+✓ Ethical Hacking
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Contribute to major Open Source projects
+- 🤖 Build production-ready AI applications
+- 📱 Publish Android apps on Google Play
+- ☁️ Earn AWS Cloud certifications
+- 🚀 Launch a SaaS platform
+- 🌍 Collaborate with developers worldwide
+
+---
+
+# 📊 Weekly Development Focus
+
+```text
+Backend Development      ████████████░░░░ 75%
+
+Frontend Development     ██████████░░░░░░ 65%
+
+Android Development      ████████░░░░░░░░ 55%
+
+Machine Learning         ███████░░░░░░░░░ 45%
+
+Cybersecurity            ██████░░░░░░░░░░ 40%
+```
+
+---
+
+# 💻 Development Environment
+
+```yaml
+OS: Ubuntu Linux
+
+Editor: VS Code
+
+Terminal: Bash
+
+Browser: Firefox
+
+Version Control: Git
+
+Containerization: Docker
+
+Cloud: AWS
+
+Database: PostgreSQL
+
+API Testing: Postman
+```
+
+---
+
+# 🏅 Certifications (In Progress)
+
+- 🎓 AWS Cloud Practitioner
+- 🤖 Machine Learning Specialization
+- 🔐 Google Cybersecurity Professional Certificate
+- ☁️ Docker & Kubernetes
+- 📱 Advanced Android Development
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:otieno272@gmail.com">
+<img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/victor-odhiambo-58163a3b8">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/OTIENO272">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://twitter.com/OtienoVictor">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://otieno272.github.io/portfolioupdate/">
+<img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider starring my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=120&section=footer"/>
+
+</div>
 
 <div align="center">
 
