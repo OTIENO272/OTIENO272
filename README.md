@@ -3,7 +3,7 @@
 
  <div align="center">
 
-# 👋 Hi, I'm Victor Odhiambpo
+# 👋 Hi, I'm Victor Odhiambo
 
 
 ### Tech Enthusiast
