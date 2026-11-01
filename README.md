@@ -3,10 +3,10 @@
 
  <div align="center">
 
-# 👋 Hi, I'm Victor Otieno
+# 👋 Hi, I'm Victor Odhiambpo
 
 
-### AI Engineer • Full-Stack Developer • Android Developer • Cybersecurity Enthusiast
+### Tech Enthusiast
 
 <img src="https://readme-typing-svg.vercel.app?font=Space+Mono&weight=600&size=18&duration=3500&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Building+Scalable+Software;AI+%26+Machine+Learning+Developer;Full-Stack+Web+Engineer;Android+Application+Developer;Cybersecurity+Enthusiast;Always+Learning+Something+New" />
 
